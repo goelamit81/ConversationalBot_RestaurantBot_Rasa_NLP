@@ -1,0 +1,1996 @@
+<!-- markdownlint-disable -->
+
+## intent:greet
+- Hi
+- Hey
+- Hi bot
+- Hello bot
+- Hello Foodie
+- Foodie
+- Hey bot
+- Hello
+- Good morning
+- hi again
+- hi folks
+- hi Mister
+- hi pal!
+- hi there
+- greetings
+- hello everybody
+- hello is anybody there
+- hello robot
+- hallo
+- heeey
+- hi hi
+- hey
+- hey hey
+- hello there
+- hi
+- hello
+- yo
+- hola
+- hi?
+- hey bot!
+- hello friend
+- hii
+- hello sweet boy
+- yoo
+- hey there
+- hiihihi
+- hello sweatheart
+- hellooo
+- helloooo
+- heyo
+- ayyyy whaddup
+- hello?
+- Hallo
+- heya
+- hey bot
+- howdy
+- Hellllooooooo
+- whats up
+- Hei
+- Well hello there ;)
+- I said, helllllloooooO!!!!
+- Heya
+- Whats up my bot
+- hiii
+- heyho
+- hey, let's talk
+- hey let's talk
+- jojojo
+- hey dude
+- hello it is me again
+- jop
+- hi friend
+- hi there it's me
+- good evening
+- good morning
+- good afternoon
+- dear sir
+- buddy
+- Howz it going
+- Dear Mam
+- You there?
+- R u there?
+- Are you there?
+- Hello!
+
+## intent:affirm
+- yes
+- of course
+- that's right
+- right, thank you
+- correct
+- great choice
+- sounds really good
+- sure
+- yeah
+- ok
+- okay
+- cool
+- go for it
+- yep
+- yep, will do thank you
+- I'm sure I will!
+- oh awesome!
+- awesome
+- Yes
+- accept
+- I accept
+- i accept
+- ok i accept
+- I changed my mind. I want to accept it
+- ok cool
+- alright
+- i will!
+- ok, I behave now
+- yop
+- oki doki
+- okie dokie
+- yes please
+- yes please!
+- jo
+- yep if i have to
+- amayzing
+- confirm
+- nice
+- coolio
+- sounds great
+- thats wonderful
+- thats awesome
+- That would be nice
+- definitely yes without a doubt
+- yas
+- yup
+- perfect
+- sure thing
+- absolutely
+- Oh, ok
+- Sure
+- hm, i'd like that
+- hmm, i'd like that
+- ja
+- sure!
+- yes i accept
+- Sweet
+- sweet
+- amazing!
+- amazing
+- how nice!
+- cool!
+- yay
+- yes accept please
+- great
+- oh cool
+- fine
+- i will take that
+- that sounds just right
+- indeed
+- wow
+- select this
+- freeze it
+- Much appreciated
+- Appreciated
+- That will help
+- yes please send
+- mail me the list
+- email me a list of top 10 restaurants
+- please send me an email
+- please share this with me
+- send me an email
+- share this over mail
+- share this information with me over email
+- yes please share
+- yes. Please
+
+## intent:bye
+- goodbye
+- goodnight
+- good bye
+- good night
+- see ya
+- toodle-oo
+- bye bye
+- gotta go
+- farewell
+- catch you later
+- bye for now
+- bye
+- bye was nice talking to you
+- bye udo
+- bye bye bot
+- bye bot
+- k byyye #slay
+- talk to you later
+- Talk to you later
+- Time to leave
+- ciao
+- Bye bye
+- then bye
+- tschüssikowski
+- bye!
+- stop
+- end
+- have a good one
+- got to go
+- Got to go
+- take care
+- Take care
+- gtg
+- ttl
+- tc
+- tata
+- ttyl
+
+## intent:deny
+- no
+- nope
+- Nope thanks
+- Nope Thanks
+- nope thanks
+- nope Thanks
+- Nope.Thanks
+- definitely not
+- never
+- absolutely not
+- i don't think so
+- i'm afraid not
+- no sir
+- no ma'am
+- no way
+- not required
+- not this time
+- may be later
+- dont do that
+- may be next time
+- Its not required
+- Dont take that trouble
+- no sorry
+- No, not really.
+- nah not for me
+- nah
+- no and no again
+- no go
+- no thanks
+- decline
+- deny
+- i decline
+- never mind
+- nevermind
+- I'm not giving you my email address
+- no I haven't decided yet if I want to sign up
+- I don't want to give it to you
+- I'm not going to give it to you
+- no i don't accept
+- no!!!!
+- no you did it wrong
+- no i can't
+- i'm not sure
+- NEIN
+- nein
+- not really
+- i guess it means - no
+- i don't want to
+- i don't want either of those
+- nah thanks
+- neither of these
+- i don't like that option
+- neither will work
+- suggest some other option
+- is this the best you can do
+- not needed
+- no need
+- donot
+- dont
+- no. thanks
+- i dont want to publish my mail id
+- i will not share my mail id
+- no please
+- Please don't send
+- Please dont send
+
+## intent:out_of_scope
+- I want pizza
+- please help with my ice cream it's dripping
+- no wait go back i want a dripping ice cream but a cone that catches it so you can drink the ice cream later
+- i want a non dripping ice cream
+- hey little mama let em whisper in your ear
+- someone call the police i think the bot died
+- show me a picture of a chicken
+- neither
+- I want french cuisine
+- i am hungry
+- you're a loser lmao
+- can i be shown a gluten free restaurant
+- i don't care!!!!
+- i do not care how are you
+- again?
+- oh wait i gave you my work email address can i change it?
+- hang on let me find it
+- stop it, i do not care!!!
+- really? you're so touchy?
+- how come?
+- I changed my mind
+- what?
+- did i break you
+- I don't wanna tell the name of my company
+- that link doesn't work!
+- you already have that
+- this is a really frustrating experience
+- no stop
+- shit bot
+- do you want to marry me?
+- give me food
+- i want food
+- udo, I want to marry you
+- i wanna party
+- shitmuncher
+- I like you
+- i want pizza
+- i want pizza!!
+- silly bot
+- i want to eat
+- you are a stupid bot
+- i hate you
+- Can I ask you questions first?
+- is it a wasteland full of broken robot parts?
+- i can't deal with _your_ request
+- are you vegan
+- who will anser my email?
+- do you sell vacuum robots?
+- i want to buy a roomba for my grandson
+- and make chicken noises into the phone
+- is barbara still married to you
+- what's your wife doing this weekend
+- how are the kids
+- you're rather dull
+- personal or work?
+- are you using Rasa Core and NLU ?
+- tell me a joke
+- what else?
+- I already told you! I'm a shitmuncher
+- I'm a shitmuncher
+- who are the engineers at rasa?
+- who are they?
+- can we keep chatting?
+- talk to me
+- who is your favourite robot?
+- a tamed mouse will arrive at your doorstep in the next couple of days
+- you will know it from the single red rose it carries between its teeth
+- i will tame a mouse for you
+- isn't the newsletter just spam?
+- go back
+- can you help me with the docs?
+- sorry, i cannot rephrase
+- and your REST API doesn't work
+- i told you already
+- better than you
+- oh my god, not again!
+- you are a badass bot!
+- lol
+- why do you need that?
+- is that any of your business
+- can you help me with your docs?
+- i immediately need help with implementing the coolest bot you can imagine
+- can you help me with your docs
+- can you tell me how to build a bot?
+- can you learn from our conversation?
+- common, just try
+- hey, I contacted you a couple of days ago but didn't get any response, any news?
+- please hurry, i have deadline in two weeks to deliver the bot it is for very big company
+- you are annoying
+- Do I have to accept?
+- Is Rasa really smart?
+- kannst du auch deutsch?
+- are the newsletter worth the subscription?
+- it's a pity
+- i want more of you in my life!
+- the one that is better than you
+- you suck
+- bots are bad
+- i dont like bots
+- do you have a phone number?
+- where do you live?
+- how are akela's cats doing?
+- but I just told you that :(
+- Why don’t you answer?
+- But you're an english site :(
+- can you help me to build a bot
+
+## intent:thank
+- Thanks
+- Thank you
+- Thank you so much
+- Thanks bot
+- Thanks for that
+- cheers
+- cheers bro
+- ok thanks!
+- perfect thank you
+- thanks a bunch for everything
+- thanks for the help
+- thanks a lot
+- amazing, thanks
+- cool, thanks
+- cool thank you
+- thanks
+- thanks!
+- Cool. Thanks
+- thanks this is great news
+- thank you
+- great thanks
+- Thanks!
+- cool thanks
+- thanks for forum link, I'll check it out
+- tnx
+- thanx
+- thx
+
+## intent:ask_budget
+- I want to eat at a place between [300 and 700](budget:mid_budget)
+- I am fine with an [expensive](budget:high_budget) place
+- I am looking for a dinner place at [less than 300](budget:low_budget)
+- I am looking for [cheap](budget:low_budget) place to eat
+- Fine me a place [costlier than 700](budget:high_budget)
+- [Lesser than Rs. 300](budget:low_budget)
+- [Rs. 300 to 700](budget:mid_budget)
+- [More than 700](budget:high_budget)
+- [less than 300](budget:low_budget)
+- [lesser than 300](budget:low_budget)
+- [between 300 and 700](budget:mid_budget)
+- [more than 700](budget:high_budget)
+- [300-700](budget:mid_budget)
+- [<300](budget:low_budget)
+- [>700](budget:high_budget)
+- [< 300](budget:low_budget)
+- [> 700](budget:high_budget)
+- [300 - 700](budget:mid_budget)
+- [not more than 300](budget:low_budget)
+- [not more than 700](budget:mid_budget)
+- [300 to 700](budget:mid_budget)
+- [300-700](budget:mid_budget) range
+
+## intent:ask_email
+<!-- with 'email' entity -->
+- can u mail me the information to [abc@abc.com](email)?
+- can u mail to [test@tes.com](email)?
+- can u mail me at [test-123.456@dom.123.co.in](email)?
+- email address - [test.some@gmail.co.in](email). Mail this list.
+- email me at [email-123@domain.com](email)
+- mail me [emial@domain.io](email)
+- my email address [email.123-abc@domain.123.com](email)
+- please mail me the list to [123-email@domain.co.in](email)
+- please send me the list to [123@domain.net](email)
+- please send this to [email.123@123.456.com](email)
+- send this to [abc-email@abc.com](email)
+- send to [abc_123-email@abc123.com](email)
+- this is my email address - [email-abc_123@abc.com.edu](email). send me an email.
+- [email1_34-ret@host-name.123.com](email)
+- yes please send to [gen@gmail.com](email)
+- yes please send to [gen@iiitb.net](email)
+- yes please send it to [gen1@gmail.com](email)
+- yes please send it to [gen1@iiitb.net](email)
+- yes send to [gen-email@gen.com](email)
+- yes to [gen-email@gen.com](email)
+- yes [gen-email@gen.com](email)
+- to [gen-email@gen.com](email)
+- To [gen-email@gen.com](email)
+- Please [gen-email@gen.com](email)
+- yes. Please send it to [xyz@sth.edu](email)
+- yes please send it to [xyz@sth.edu](email)
+- yes. Please send it to [ahbcdj@dkj.com](email)
+- yes please send it to [ahbcdj@dkj.com](email)
+- yes. Please send it to [jddk.2jmd@kdl.co.in](email)
+- yes please send it to [jddk.2jmd@kdl.co.in](email)
+- [abc.abc19@iiitb.net](email)
+- [abc.abc@gmail.com](email)
+- [abc@gmail.com](email)
+- [abc@yahoo.com](email)
+- [abc@yahoo.co.in](email)
+- [abc@yahoo.in](email)
+- [ahbcdj@dkj.com](email)
+- [xyz@sth.edu](email)
+- [jddk.2jmd@kdl.co.in](email)
+
+## intent:search_restaurant
+<!-- only 'location' entity : training samples-->
+- [Bengaluru](location)
+- [Chennai](location)
+- [Delhi NCR](location)
+- [Hyderabad](location)
+- [Kolkata](location)
+- [Mumbai](location)
+- [Ahmedabad](location)
+- [Pune](location)
+- [Agra](location)
+- [Ajmer](location)
+- [Aligarh](location)
+- [Allahabad](location)
+- [Amravati](location)
+- [Amritsar](location)
+- [Asansol](location)
+- [Aurangabad](location)
+- [Bareilly](location)
+- [Belgaum](location)
+- [Bhavnagar](location)
+- [Bhiwandi](location)
+- [Bhopal](location)
+- [Bhubaneswar](location)
+- [Bikaner](location)
+- [Bilaspur](location)
+- [Bokaro Steel City](location)
+- [Chandigarh](location)
+- [Coimbatore](location)
+- [Nagpur](location)
+- [Cuttack](location)
+- [Dehradun](location)
+- [Dhanbad](location)
+- [Bhilai](location)
+- [Durgapur](location)
+- [Erode](location)
+- [Faridabad](location)
+- [Firozabad](location)
+- [Ghaziabad](location)
+- [Gorakhpur](location)
+- [Gulbarga](location)
+- [Guntur](location)
+- [Gwalior](location)
+- [Gurgaon](location)
+- [Guwahati](location)
+- [Hamirpur](location)
+- [Hubli-Dharwad](location)
+- [Indore](location)
+- [Jabalpur](location)
+- [Jaipur](location)
+- [Jalandhar](location)
+- [Jammu](location)
+- [Jamnagar](location)
+- [Jamshedpur](location)
+- [Jhansi](location)
+- [Jodhpur](location)
+- [Kakinada](location)
+- [Kannur](location)
+- [Kanpur](location)
+- [Kochi](location)
+- [Kolhapur](location)
+- [Kollam](location)
+- [Kozhikode](location)
+- [Kurnool](location)
+- [Lucknow](location)
+- [Ludhiana](location)
+- [Madurai](location)
+- [Malappuram](location)
+- [Mathura](location)
+- [Goa](location)
+- [Mangalore](location)
+- [Meerut](location)
+- [Moradabad](location)
+- [Mysore](location)
+- [Nanded](location)
+- [Nashik](location)
+- [Nellore](location)
+- [Noida](location)
+- [Patna](location)
+- [Pondicherry](location)
+- [Purulla Prayagraj](location)
+- [Raipur](location)
+- [Rajkot](location)
+- [Rajahmundry](location)
+- [Ranchi](location)
+- [Rourkela](location)
+- [Salem](location)
+- [Sangli](location)
+- [Shimla](location)
+- [Siliguri](location)
+- [Solapur](location)
+- [Srinagar](location)
+- [Thiruvananthapuram](location)
+- [Thrissur](location)
+- [Tiruchirappalli](location)
+- [Tiruppur](location)
+- [Ujjain](location)
+- [Bijapur](location)
+- [Vadodara](location)
+- [Varanasi](location)
+- [Vasai-Virar City](location)
+- [Vijayawada](location)
+- [Vellore](location)
+- [Warangal](location)
+- [Surat](location)
+- [Visakhapatnam](location)
+- [prayagraj](location)
+- [Prayagraj](location)
+- [allahabad](location)
+- [amritsar](location)
+- [Amratsar](location)
+- [amratsar](location)
+- [City of Golden Temple](location)
+- [Aurgangabad](location)
+- [Sambhaji Nagar](location)
+- [aurangabad](location)
+- [Bangalore](location)
+- [bngalore](location)
+- [bengalluru](location)
+- [Bangalor](location)
+- [bangalore](location)
+- [bengaluru](location)
+- [bglr](location)
+- [Bglr](location)
+- [Blr](location)
+- [blr](location)
+- [Blore](location)
+- [blore](location)
+- [Garden City](location)
+- [Belagavi](location)
+- [belgaum](location)
+- [Temple City](location)
+- [Bhuvaneswar](location)
+- [bhuvaneswar](location)
+- [bhubaneswar](location)
+- [chennai](location)
+- [madras](location)
+- [Madras](location)
+- [chn](location)
+- [Chn](location)
+- [MAS](location)
+- [mas](location)
+- [chandigarh](location)
+- [Chandighar](location)
+- [chandighar](location)
+- [New Delhi](location)
+- [NewDelhi](location)
+- [Dilli](location)
+- [Dellhi](location)
+- [newdelhi](location)
+- [Newdelhi](location)
+- [new delhi](location)
+- [new Delhi](location)
+- [Capital City Of India](location)
+- [National Capital](location)
+- [NCR](location)
+- [ncr](location)
+- [del](location)
+- [Del](location)
+- [delhi](location)
+- [dilli](location)
+- [Delhi](location)
+- [durg](location)
+- [bhilai](location)
+- [Durg](location)
+- [Durg Bhilai Nagar](location)
+- [durg bhilai nagar](location)
+- [durg bhilai](location)
+- [Durg Bhilai](location)
+- [Panjim](location)
+- [Panaji](location)
+- [panjim](location)
+- [panaji](location)
+- [guwahati](location)
+- [gauhati](location)
+- [Gauhati](location)
+- [hyderabad](location)
+- [Secunderabad](location)
+- [secunderabad](location)
+- [cyberabad](location)
+- [Cyberabad](location)
+- [Bangle City](location)
+- [Twin Cities](location)
+- [Secundarabad](location)
+- [Sikandarabad](location)
+- [secundarabad](location)
+- [sikandarabad](location)
+- [hubli-dharwad](location)
+- [Hubli Dharwad](location)
+- [hubli dharwad](location)
+- [Hubballi-Dharwad](location)
+- [Hubballi Dharwad](location)
+- [hubballi dharwad](location)
+- [hubballi-dharwad](location)
+- [Hubballi](location)
+- [Dharwad](location)
+- [Hubli](location)
+- [hubli](location)
+- [dharwad](location)
+- [indore](location)
+- [Indhur](location)
+- [indhur](location)
+- [jabalpur](location)
+- [Jubbulpore](location)
+- [jubbulpore](location)
+- [jalandhar](location)
+- [Jullundur](location)
+- [jullundur](location)
+- [jodhpur](location)
+- [Sun City](location)
+- [jaipur](location)
+- [Pink City](location)
+- [jamshedpur](location)
+- [Jamsedpur](location)
+- [jamsedpur](location)
+- [kanpur](location)
+- [Cawnpore](location)
+- [cawnpore](location)
+- [Calcutta](location)
+- [kolkata](location)
+- [kolkatta](location)
+- [calcutta](location)
+- [calcuta](location)
+- [City of Palaces](location)
+- [kochi](location)
+- [cochin](location)
+- [Cochin](location)
+- [Calicut](location)
+- [kozhikode](location)
+- [calicut](location)
+- [Quilon](location)
+- [quilon](location)
+- [kollam](location)
+- [Lakhanpur](location)
+- [Lucknw](location)
+- [lucknow](location)
+- [lucknw](location)
+- [City of seven Islands](location)
+- [Bombay](location)
+- [bombay](location)
+- [mumbai](location)
+- [BOM](location)
+- [bom](location)
+- [mysuru](location)
+- [Mysuru](location)
+- [Sandal Wood City](location)
+- [mysore](location)
+- [mangalore](location)
+- [mangaluru](location)
+- [Mangaluru](location)
+- [nashik](location)
+- [Nasik](location)
+- [nasik](location)
+- [Orange City](location)
+- [nagpur](location)
+- [pondicherry](location)
+- [puducherry](location)
+- [Puducherry](location)
+- [Auroville](location)
+- [auroville](location)
+- [Pondichery](location)
+- [pondichery](location)
+- [City of Dawn](location)
+- [Poona](location)
+- [poona](location)
+- [pune](location)
+- [rajahmundry](location)
+- [Rajahmundri](location)
+- [rajahmundri](location)
+- [Rajamundry](location)
+- [rajamundry](location)
+- [Rajamundri](location)
+- [rajamundri](location)
+- [rourkela](location)
+- [Raurkela](location)
+- [raurkela](location)
+- [surat](location)
+- [Diamond City](location)
+- [visakhapatnam](location)
+- [Vizag](location)
+- [vizag](location)
+- [Vizagapatnam](location)
+- [vizagapatnam](location)
+- [waltair](location)
+- [Waltair](location)
+- [vadodara](location)
+- [Vadodra](location)
+- [vadodra](location)
+- [Vasai Virar City](location)
+- [vasai](location)
+- [virar](location)
+- [Virar](location)
+- [vasai virar](location)
+- [Vasai Virar](location)
+- [vasai virar city](location)
+- [Vasai](location)
+- [thiruvananthapuram](location)
+- [trivandrum](location)
+- [Trivandrum](location)
+- [Travancore](location)
+- [travancore](location)
+- [tvm](location)
+- [Tvm](location)
+- [thrissur](location)
+- [Trichur](location)
+- [trichur](location)
+- [Thiru Siva Peroor](location)
+- Search for a restaurant in [Jabalpur](location)
+- Suggest some restaurant in [Jalandhar](location)
+- Find a place to eat in [Jamnagar](location)
+- Look for restaurant in [Jhansi](location)
+- Find me a place to eat in [Bangalore](location)
+- I need a new restaurant in [Bengaluru](location)
+- help me find restaurant in [Pondicherry](location)
+- Could you find me a restaurant to eat at [Mangalore](location)?
+- [Bhubaneshwar](location)
+- Can you find me a restaurant in [Bombay](location)?
+- [erode](location)
+- Get me some place to eat in [Kakinada](location)
+- Help me find a restaurant at [Kannur](location)
+- Suggest some good restaurant at [Kanpur](location)
+- Hey, help me find a restaurant in [Mumbai](location)
+- I need to find a restaurant in [Kolkata](location)
+- Find a restaurant for me in [Calcutta](location)
+- Where should I eat in [Delhi](location)?
+- Suggest me a good restaurant around [Varanasi](location)
+- I need to find this restaurant in [Vijayawada](location)
+- Show me the closest open restaurant in [Chennai](location)
+- Hey help me find a restaurant in [Madras](location)
+- Help me find a restaurant in [Surat](location)
+- Recommend me a restaurant around [Pune](location)
+- Could you find a restaurant for me in [Belgaum](location)?
+- Could you find a restaurant for me in [Madurai](location)?
+- Would you find me a restaurant in [Allahabad](location)??
+- Could you find me a restaurant in [Agra](location)? 
+- Pick a restaurant for me, please in [Kochi](location)
+- How can you help me find a restaurant in [Jamshedpur](location)?
+- Can you find a restaurant for me in [Chandigarh](location)?
+- Would you find me a restaurant in [Visakhapatnam](location)??
+- Could you find me a restaurant to eat at [Gurgaon](location)?
+- Would you find me a restaurant in [calcutta](location)??
+- Okay. Show me some in [Malappuram](location)
+- Okay. Show me some in [Allahabad](location)
+- Recommend me a restaurant around [Prayagraj](location)
+- Can you suggest some good restaurants in [bombay](location)
+- Look for a good place to eat at [Kolhapur](location)
+- Would you please find me a good restaurant in [Kollam](location)
+- I am hungry. Please find me a place to eat in [Ludhiana](location)
+<!-- location + cuisine entities : training samples -->
+- [Bengaluru](location) [American](cuisine)
+- [Chennai](location) [American](cuisine)
+- [Delhi NCR](location) [American](cuisine)
+- [Hyderabad](location) [American](cuisine)
+- [Kolkata](location) [American](cuisine)
+- [Mumbai](location) [American](cuisine)
+- [Ahmedabad](location) [American](cuisine)
+- [Pune](location) [American](cuisine)
+- [Agra](location) [American](cuisine)
+- [Ajmer](location) [American](cuisine)
+- [Aligarh](location) [American](cuisine)
+- [Allahabad](location) [American](cuisine)
+- [Amravati](location) [American](cuisine)
+- [Amritsar](location) [American](cuisine)
+- [Asansol](location) [American](cuisine)
+- [Aurangabad](location) [American](cuisine)
+- [Bareilly](location) [American](cuisine)
+- [Belgaum](location) [American](cuisine)
+- [Bhavnagar](location) [American](cuisine)
+- [Bhiwandi](location) [American](cuisine)
+- [Bhopal](location) [American](cuisine)
+- [Bhubaneswar](location) [American](cuisine)
+- [Bikaner](location) [American](cuisine)
+- [Bilaspur](location) [American](cuisine)
+- [Bokaro Steel City](location) [American](cuisine)
+- [Chandigarh](location) [American](cuisine)
+- [Coimbatore](location) [American](cuisine)
+- [Nagpur](location) [American](cuisine)
+- [Cuttack](location) [American](cuisine)
+- [Dehradun](location) [American](cuisine)
+- [Dhanbad](location) [American](cuisine)
+- [Bhilai](location) [American](cuisine)
+- [Durgapur](location) [American](cuisine)
+- [Erode](location) [American](cuisine)
+- [Faridabad](location) [American](cuisine)
+- [Firozabad](location) [American](cuisine)
+- [Ghaziabad](location) [American](cuisine)
+- [Gorakhpur](location) [American](cuisine)
+- [Gulbarga](location) [American](cuisine)
+- [Guntur](location) [American](cuisine)
+- [Gwalior](location) [American](cuisine)
+- [Gurgaon](location) [American](cuisine)
+- [Guwahati](location) [American](cuisine)
+- [Hamirpur](location) [American](cuisine)
+- [Hubli-Dharwad](location) [American](cuisine)
+- [Indore](location) [American](cuisine)
+- [Jabalpur](location) [American](cuisine)
+- [Jaipur](location) [American](cuisine)
+- [Jalandhar](location) [American](cuisine)
+- [Jammu](location) [American](cuisine)
+- [Jamnagar](location) [American](cuisine)
+- [Jamshedpur](location) [American](cuisine)
+- [Jhansi](location) [American](cuisine)
+- [Jodhpur](location) [American](cuisine)
+- [Kakinada](location) [American](cuisine)
+- [Kannur](location) [American](cuisine)
+- [Kanpur](location) [American](cuisine)
+- [Kochi](location) [American](cuisine)
+- [Kolhapur](location) [American](cuisine)
+- [Kollam](location) [American](cuisine)
+- [Kozhikode](location) [American](cuisine)
+- [Kurnool](location) [American](cuisine)
+- [Lucknow](location) [American](cuisine)
+- [Ludhiana](location) [American](cuisine)
+- [Madurai](location) [American](cuisine)
+- [Malappuram](location) [American](cuisine)
+- [Mathura](location) [American](cuisine)
+- [Goa](location) [American](cuisine)
+- [Mangalore](location) [American](cuisine)
+- [Meerut](location) [American](cuisine)
+- [Moradabad](location) [American](cuisine)
+- [Mysore](location) [American](cuisine)
+- [Nanded](location) [American](cuisine)
+- [Nashik](location) [American](cuisine)
+- [Nellore](location) [American](cuisine)
+- [Noida](location) [American](cuisine)
+- [Patna](location) [American](cuisine)
+- [Pondicherry](location) [American](cuisine)
+- [Purulla Prayagraj](location) [American](cuisine)
+- [Raipur](location) [American](cuisine)
+- [Rajkot](location) [American](cuisine)
+- [Rajahmundry](location) [American](cuisine)
+- [Ranchi](location) [American](cuisine)
+- [Rourkela](location) [American](cuisine)
+- [Salem](location) [American](cuisine)
+- [Sangli](location) [American](cuisine)
+- [Shimla](location) [American](cuisine)
+- [Siliguri](location) [American](cuisine)
+- [Solapur](location) [American](cuisine)
+- [Srinagar](location) [American](cuisine)
+- [Thiruvananthapuram](location) [American](cuisine)
+- [Thrissur](location) [American](cuisine)
+- [Tiruchirappalli](location) [American](cuisine)
+- [Tiruppur](location) [American](cuisine)
+- [Ujjain](location) [American](cuisine)
+- [Bijapur](location) [American](cuisine)
+- [Vadodara](location) [American](cuisine)
+- [Varanasi](location) [American](cuisine)
+- [Vasai-Virar City](location) [American](cuisine)
+- [Vijayawada](location) [American](cuisine)
+- [Vellore](location) [American](cuisine)
+- [Warangal](location) [American](cuisine)
+- [Surat](location) [American](cuisine)
+- [Visakhapatnam](location) [American](cuisine)
+- [Bengaluru](location) [Mexican](cuisine)
+- [Chennai](location) [Mexican](cuisine)
+- [Delhi NCR](location) [Mexican](cuisine)
+- [Hyderabad](location) [Mexican](cuisine)
+- [Kolkata](location) [Mexican](cuisine)
+- [Mumbai](location) [Mexican](cuisine)
+- [Ahmedabad](location) [Mexican](cuisine)
+- [Pune](location) [Mexican](cuisine)
+- [Agra](location) [Mexican](cuisine)
+- [Ajmer](location) [Mexican](cuisine)
+- [Aligarh](location) [Mexican](cuisine)
+- [Allahabad](location) [Mexican](cuisine)
+- [Amravati](location) [Mexican](cuisine)
+- [Amritsar](location) [Mexican](cuisine)
+- [Asansol](location) [Mexican](cuisine)
+- [Aurangabad](location) [Mexican](cuisine)
+- [Bareilly](location) [Mexican](cuisine)
+- [Belgaum](location) [Mexican](cuisine)
+- [Bhavnagar](location) [Mexican](cuisine)
+- [Bhiwandi](location) [Mexican](cuisine)
+- [Bhopal](location) [Mexican](cuisine)
+- [Bhubaneswar](location) [Mexican](cuisine)
+- [Bikaner](location) [Mexican](cuisine)
+- [Bilaspur](location) [Mexican](cuisine)
+- [Bokaro Steel City](location) [Mexican](cuisine)
+- [Chandigarh](location) [Mexican](cuisine)
+- [Coimbatore](location) [Mexican](cuisine)
+- [Nagpur](location) [Mexican](cuisine)
+- [Cuttack](location) [Mexican](cuisine)
+- [Dehradun](location) [Mexican](cuisine)
+- [Dhanbad](location) [Mexican](cuisine)
+- [Bhilai](location) [Mexican](cuisine)
+- [Durgapur](location) [Mexican](cuisine)
+- [Erode](location) [Mexican](cuisine)
+- [Faridabad](location) [Mexican](cuisine)
+- [Firozabad](location) [Mexican](cuisine)
+- [Ghaziabad](location) [Mexican](cuisine)
+- [Gorakhpur](location) [Mexican](cuisine)
+- [Gulbarga](location) [Mexican](cuisine)
+- [Guntur](location) [Mexican](cuisine)
+- [Gwalior](location) [Mexican](cuisine)
+- [Gurgaon](location) [Mexican](cuisine)
+- [Guwahati](location) [Mexican](cuisine)
+- [Hamirpur](location) [Mexican](cuisine)
+- [Hubli-Dharwad](location) [Mexican](cuisine)
+- [Indore](location) [Mexican](cuisine)
+- [Jabalpur](location) [Mexican](cuisine)
+- [Jaipur](location) [Mexican](cuisine)
+- [Jalandhar](location) [Mexican](cuisine)
+- [Jammu](location) [Mexican](cuisine)
+- [Jamnagar](location) [Mexican](cuisine)
+- [Jamshedpur](location) [Mexican](cuisine)
+- [Jhansi](location) [Mexican](cuisine)
+- [Jodhpur](location) [Mexican](cuisine)
+- [Kakinada](location) [Mexican](cuisine)
+- [Kannur](location) [Mexican](cuisine)
+- [Kanpur](location) [Mexican](cuisine)
+- [Kochi](location) [Mexican](cuisine)
+- [Kolhapur](location) [Mexican](cuisine)
+- [Kollam](location) [Mexican](cuisine)
+- [Kozhikode](location) [Mexican](cuisine)
+- [Kurnool](location) [Mexican](cuisine)
+- [Lucknow](location) [Mexican](cuisine)
+- [Ludhiana](location) [Mexican](cuisine)
+- [Madurai](location) [Mexican](cuisine)
+- [Malappuram](location) [Mexican](cuisine)
+- [Mathura](location) [Mexican](cuisine)
+- [Goa](location) [Mexican](cuisine)
+- [Mangalore](location) [Mexican](cuisine)
+- [Meerut](location) [Mexican](cuisine)
+- [Moradabad](location) [Mexican](cuisine)
+- [Mysore](location) [Mexican](cuisine)
+- [Nanded](location) [Mexican](cuisine)
+- [Nashik](location) [Mexican](cuisine)
+- [Nellore](location) [Mexican](cuisine)
+- [Noida](location) [Mexican](cuisine)
+- [Patna](location) [Mexican](cuisine)
+- [Pondicherry](location) [Mexican](cuisine)
+- [Purulla Prayagraj](location) [Mexican](cuisine)
+- [Raipur](location) [Mexican](cuisine)
+- [Rajkot](location) [Mexican](cuisine)
+- [Rajahmundry](location) [Mexican](cuisine)
+- [Ranchi](location) [Mexican](cuisine)
+- [Rourkela](location) [Mexican](cuisine)
+- [Salem](location) [Mexican](cuisine)
+- [Sangli](location) [Mexican](cuisine)
+- [Shimla](location) [Mexican](cuisine)
+- [Siliguri](location) [Mexican](cuisine)
+- [Solapur](location) [Mexican](cuisine)
+- [Srinagar](location) [Mexican](cuisine)
+- [Thiruvananthapuram](location) [Mexican](cuisine)
+- [Thrissur](location) [Mexican](cuisine)
+- [Tiruchirappalli](location) [Mexican](cuisine)
+- [Tiruppur](location) [Mexican](cuisine)
+- [Ujjain](location) [Mexican](cuisine)
+- [Bijapur](location) [Mexican](cuisine)
+- [Vadodara](location) [Mexican](cuisine)
+- [Varanasi](location) [Mexican](cuisine)
+- [Vasai-Virar City](location) [Mexican](cuisine)
+- [Vijayawada](location) [Mexican](cuisine)
+- [Vellore](location) [Mexican](cuisine)
+- [Warangal](location) [Mexican](cuisine)
+- [Surat](location) [Mexican](cuisine)
+- [Visakhapatnam](location) [Mexican](cuisine)
+- [Bengaluru](location) [Italian](cuisine)
+- [Chennai](location) [Italian](cuisine)
+- [Delhi NCR](location) [Italian](cuisine)
+- [Hyderabad](location) [Italian](cuisine)
+- [Kolkata](location) [Italian](cuisine)
+- [Mumbai](location) [Italian](cuisine)
+- [Ahmedabad](location) [Italian](cuisine)
+- [Pune](location) [Italian](cuisine)
+- [Agra](location) [Italian](cuisine)
+- [Ajmer](location) [Italian](cuisine)
+- [Aligarh](location) [Italian](cuisine)
+- [Allahabad](location) [Italian](cuisine)
+- [Amravati](location) [Italian](cuisine)
+- [Amritsar](location) [Italian](cuisine)
+- [Asansol](location) [Italian](cuisine)
+- [Aurangabad](location) [Italian](cuisine)
+- [Bareilly](location) [Italian](cuisine)
+- [Belgaum](location) [Italian](cuisine)
+- [Bhavnagar](location) [Italian](cuisine)
+- [Bhiwandi](location) [Italian](cuisine)
+- [Bhopal](location) [Italian](cuisine)
+- [Bhubaneswar](location) [Italian](cuisine)
+- [Bikaner](location) [Italian](cuisine)
+- [Bilaspur](location) [Italian](cuisine)
+- [Bokaro Steel City](location) [Italian](cuisine)
+- [Chandigarh](location) [Italian](cuisine)
+- [Coimbatore](location) [Italian](cuisine)
+- [Nagpur](location) [Italian](cuisine)
+- [Cuttack](location) [Italian](cuisine)
+- [Dehradun](location) [Italian](cuisine)
+- [Dhanbad](location) [Italian](cuisine)
+- [Bhilai](location) [Italian](cuisine)
+- [Durgapur](location) [Italian](cuisine)
+- [Erode](location) [Italian](cuisine)
+- [Faridabad](location) [Italian](cuisine)
+- [Firozabad](location) [Italian](cuisine)
+- [Ghaziabad](location) [Italian](cuisine)
+- [Gorakhpur](location) [Italian](cuisine)
+- [Gulbarga](location) [Italian](cuisine)
+- [Guntur](location) [Italian](cuisine)
+- [Gwalior](location) [Italian](cuisine)
+- [Gurgaon](location) [Italian](cuisine)
+- [Guwahati](location) [Italian](cuisine)
+- [Hamirpur](location) [Italian](cuisine)
+- [Hubli-Dharwad](location) [Italian](cuisine)
+- [Indore](location) [Italian](cuisine)
+- [Jabalpur](location) [Italian](cuisine)
+- [Jaipur](location) [Italian](cuisine)
+- [Jalandhar](location) [Italian](cuisine)
+- [Jammu](location) [Italian](cuisine)
+- [Jamnagar](location) [Italian](cuisine)
+- [Jamshedpur](location) [Italian](cuisine)
+- [Jhansi](location) [Italian](cuisine)
+- [Jodhpur](location) [Italian](cuisine)
+- [Kakinada](location) [Italian](cuisine)
+- [Kannur](location) [Italian](cuisine)
+- [Kanpur](location) [Italian](cuisine)
+- [Kochi](location) [Italian](cuisine)
+- [Kolhapur](location) [Italian](cuisine)
+- [Kollam](location) [Italian](cuisine)
+- [Kozhikode](location) [Italian](cuisine)
+- [Kurnool](location) [Italian](cuisine)
+- [Lucknow](location) [Italian](cuisine)
+- [Ludhiana](location) [Italian](cuisine)
+- [Madurai](location) [Italian](cuisine)
+- [Malappuram](location) [Italian](cuisine)
+- [Mathura](location) [Italian](cuisine)
+- [Goa](location) [Italian](cuisine)
+- [Mangalore](location) [Italian](cuisine)
+- [Meerut](location) [Italian](cuisine)
+- [Moradabad](location) [Italian](cuisine)
+- [Mysore](location) [Italian](cuisine)
+- [Nanded](location) [Italian](cuisine)
+- [Nashik](location) [Italian](cuisine)
+- [Nellore](location) [Italian](cuisine)
+- [Noida](location) [Italian](cuisine)
+- [Patna](location) [Italian](cuisine)
+- [Pondicherry](location) [Italian](cuisine)
+- [Purulla Prayagraj](location) [Italian](cuisine)
+- [Raipur](location) [Italian](cuisine)
+- [Rajkot](location) [Italian](cuisine)
+- [Rajahmundry](location) [Italian](cuisine)
+- [Ranchi](location) [Italian](cuisine)
+- [Rourkela](location) [Italian](cuisine)
+- [Salem](location) [Italian](cuisine)
+- [Sangli](location) [Italian](cuisine)
+- [Shimla](location) [Italian](cuisine)
+- [Siliguri](location) [Italian](cuisine)
+- [Solapur](location) [Italian](cuisine)
+- [Srinagar](location) [Italian](cuisine)
+- [Thiruvananthapuram](location) [Italian](cuisine)
+- [Thrissur](location) [Italian](cuisine)
+- [Tiruchirappalli](location) [Italian](cuisine)
+- [Tiruppur](location) [Italian](cuisine)
+- [Ujjain](location) [Italian](cuisine)
+- [Bijapur](location) [Italian](cuisine)
+- [Vadodara](location) [Italian](cuisine)
+- [Varanasi](location) [Italian](cuisine)
+- [Vasai-Virar City](location) [Italian](cuisine)
+- [Vijayawada](location) [Italian](cuisine)
+- [Vellore](location) [Italian](cuisine)
+- [Warangal](location) [Italian](cuisine)
+- [Surat](location) [Italian](cuisine)
+- [Visakhapatnam](location) [Italian](cuisine)
+- [Bengaluru](location) [Chinese](cuisine)
+- [Chennai](location) [Chinese](cuisine)
+- [Delhi NCR](location) [Chinese](cuisine)
+- [Hyderabad](location) [Chinese](cuisine)
+- [Kolkata](location) [Chinese](cuisine)
+- [Mumbai](location) [Chinese](cuisine)
+- [Ahmedabad](location) [Chinese](cuisine)
+- [Pune](location) [Chinese](cuisine)
+- [Agra](location) [Chinese](cuisine)
+- [Ajmer](location) [Chinese](cuisine)
+- [Aligarh](location) [Chinese](cuisine)
+- [Allahabad](location) [Chinese](cuisine)
+- [Amravati](location) [Chinese](cuisine)
+- [Amritsar](location) [Chinese](cuisine)
+- [Asansol](location) [Chinese](cuisine)
+- [Aurangabad](location) [Chinese](cuisine)
+- [Bareilly](location) [Chinese](cuisine)
+- [Belgaum](location) [Chinese](cuisine)
+- [Bhavnagar](location) [Chinese](cuisine)
+- [Bhiwandi](location) [Chinese](cuisine)
+- [Bhopal](location) [Chinese](cuisine)
+- [Bhubaneswar](location) [Chinese](cuisine)
+- [Bikaner](location) [Chinese](cuisine)
+- [Bilaspur](location) [Chinese](cuisine)
+- [Bokaro Steel City](location) [Chinese](cuisine)
+- [Chandigarh](location) [Chinese](cuisine)
+- [Coimbatore](location) [Chinese](cuisine)
+- [Nagpur](location) [Chinese](cuisine)
+- [Cuttack](location) [Chinese](cuisine)
+- [Dehradun](location) [Chinese](cuisine)
+- [Dhanbad](location) [Chinese](cuisine)
+- [Bhilai](location) [Chinese](cuisine)
+- [Durgapur](location) [Chinese](cuisine)
+- [Erode](location) [Chinese](cuisine)
+- [Faridabad](location) [Chinese](cuisine)
+- [Firozabad](location) [Chinese](cuisine)
+- [Ghaziabad](location) [Chinese](cuisine)
+- [Gorakhpur](location) [Chinese](cuisine)
+- [Gulbarga](location) [Chinese](cuisine)
+- [Guntur](location) [Chinese](cuisine)
+- [Gwalior](location) [Chinese](cuisine)
+- [Gurgaon](location) [Chinese](cuisine)
+- [Guwahati](location) [Chinese](cuisine)
+- [Hamirpur](location) [Chinese](cuisine)
+- [Hubli-Dharwad](location) [Chinese](cuisine)
+- [Indore](location) [Chinese](cuisine)
+- [Jabalpur](location) [Chinese](cuisine)
+- [Jaipur](location) [Chinese](cuisine)
+- [Jalandhar](location) [Chinese](cuisine)
+- [Jammu](location) [Chinese](cuisine)
+- [Jamnagar](location) [Chinese](cuisine)
+- [Jamshedpur](location) [Chinese](cuisine)
+- [Jhansi](location) [Chinese](cuisine)
+- [Jodhpur](location) [Chinese](cuisine)
+- [Kakinada](location) [Chinese](cuisine)
+- [Kannur](location) [Chinese](cuisine)
+- [Kanpur](location) [Chinese](cuisine)
+- [Kochi](location) [Chinese](cuisine)
+- [Kolhapur](location) [Chinese](cuisine)
+- [Kollam](location) [Chinese](cuisine)
+- [Kozhikode](location) [Chinese](cuisine)
+- [Kurnool](location) [Chinese](cuisine)
+- [Lucknow](location) [Chinese](cuisine)
+- [Ludhiana](location) [Chinese](cuisine)
+- [Madurai](location) [Chinese](cuisine)
+- [Malappuram](location) [Chinese](cuisine)
+- [Mathura](location) [Chinese](cuisine)
+- [Goa](location) [Chinese](cuisine)
+- [Mangalore](location) [Chinese](cuisine)
+- [Meerut](location) [Chinese](cuisine)
+- [Moradabad](location) [Chinese](cuisine)
+- [Mysore](location) [Chinese](cuisine)
+- [Nanded](location) [Chinese](cuisine)
+- [Nashik](location) [Chinese](cuisine)
+- [Nellore](location) [Chinese](cuisine)
+- [Noida](location) [Chinese](cuisine)
+- [Patna](location) [Chinese](cuisine)
+- [Pondicherry](location) [Chinese](cuisine)
+- [Purulla Prayagraj](location) [Chinese](cuisine)
+- [Raipur](location) [Chinese](cuisine)
+- [Rajkot](location) [Chinese](cuisine)
+- [Rajahmundry](location) [Chinese](cuisine)
+- [Ranchi](location) [Chinese](cuisine)
+- [Rourkela](location) [Chinese](cuisine)
+- [Salem](location) [Chinese](cuisine)
+- [Sangli](location) [Chinese](cuisine)
+- [Shimla](location) [Chinese](cuisine)
+- [Siliguri](location) [Chinese](cuisine)
+- [Solapur](location) [Chinese](cuisine)
+- [Srinagar](location) [Chinese](cuisine)
+- [Thiruvananthapuram](location) [Chinese](cuisine)
+- [Thrissur](location) [Chinese](cuisine)
+- [Tiruchirappalli](location) [Chinese](cuisine)
+- [Tiruppur](location) [Chinese](cuisine)
+- [Ujjain](location) [Chinese](cuisine)
+- [Bijapur](location) [Chinese](cuisine)
+- [Vadodara](location) [Chinese](cuisine)
+- [Varanasi](location) [Chinese](cuisine)
+- [Vasai-Virar City](location) [Chinese](cuisine)
+- [Vijayawada](location) [Chinese](cuisine)
+- [Vellore](location) [Chinese](cuisine)
+- [Warangal](location) [Chinese](cuisine)
+- [Surat](location) [Chinese](cuisine)
+- [Visakhapatnam](location) [Chinese](cuisine)
+- [Bengaluru](location) [South Indian](cuisine)
+- [Chennai](location) [South Indian](cuisine)
+- [Delhi NCR](location) [South Indian](cuisine)
+- [Hyderabad](location) [South Indian](cuisine)
+- [Kolkata](location) [South Indian](cuisine)
+- [Mumbai](location) [South Indian](cuisine)
+- [Ahmedabad](location) [South Indian](cuisine)
+- [Pune](location) [South Indian](cuisine)
+- [Agra](location) [South Indian](cuisine)
+- [Ajmer](location) [South Indian](cuisine)
+- [Aligarh](location) [South Indian](cuisine)
+- [Allahabad](location) [South Indian](cuisine)
+- [Amravati](location) [South Indian](cuisine)
+- [Amritsar](location) [South Indian](cuisine)
+- [Asansol](location) [South Indian](cuisine)
+- [Aurangabad](location) [South Indian](cuisine)
+- [Bareilly](location) [South Indian](cuisine)
+- [Belgaum](location) [South Indian](cuisine)
+- [Bhavnagar](location) [South Indian](cuisine)
+- [Bhiwandi](location) [South Indian](cuisine)
+- [Bhopal](location) [South Indian](cuisine)
+- [Bhubaneswar](location) [South Indian](cuisine)
+- [Bikaner](location) [South Indian](cuisine)
+- [Bilaspur](location) [South Indian](cuisine)
+- [Bokaro Steel City](location) [South Indian](cuisine)
+- [Chandigarh](location) [South Indian](cuisine)
+- [Coimbatore](location) [South Indian](cuisine)
+- [Nagpur](location) [South Indian](cuisine)
+- [Cuttack](location) [South Indian](cuisine)
+- [Dehradun](location) [South Indian](cuisine)
+- [Dhanbad](location) [South Indian](cuisine)
+- [Bhilai](location) [South Indian](cuisine)
+- [Durgapur](location) [South Indian](cuisine)
+- [Erode](location) [South Indian](cuisine)
+- [Faridabad](location) [South Indian](cuisine)
+- [Firozabad](location) [South Indian](cuisine)
+- [Ghaziabad](location) [South Indian](cuisine)
+- [Gorakhpur](location) [South Indian](cuisine)
+- [Gulbarga](location) [South Indian](cuisine)
+- [Guntur](location) [South Indian](cuisine)
+- [Gwalior](location) [South Indian](cuisine)
+- [Gurgaon](location) [South Indian](cuisine)
+- [Guwahati](location) [South Indian](cuisine)
+- [Hamirpur](location) [South Indian](cuisine)
+- [Hubli-Dharwad](location) [South Indian](cuisine)
+- [Indore](location) [South Indian](cuisine)
+- [Jabalpur](location) [South Indian](cuisine)
+- [Jaipur](location) [South Indian](cuisine)
+- [Jalandhar](location) [South Indian](cuisine)
+- [Jammu](location) [South Indian](cuisine)
+- [Jamnagar](location) [South Indian](cuisine)
+- [Jamshedpur](location) [South Indian](cuisine)
+- [Jhansi](location) [South Indian](cuisine)
+- [Jodhpur](location) [South Indian](cuisine)
+- [Kakinada](location) [South Indian](cuisine)
+- [Kannur](location) [South Indian](cuisine)
+- [Kanpur](location) [South Indian](cuisine)
+- [Kochi](location) [South Indian](cuisine)
+- [Kolhapur](location) [South Indian](cuisine)
+- [Kollam](location) [South Indian](cuisine)
+- [Kozhikode](location) [South Indian](cuisine)
+- [Kurnool](location) [South Indian](cuisine)
+- [Lucknow](location) [South Indian](cuisine)
+- [Ludhiana](location) [South Indian](cuisine)
+- [Madurai](location) [South Indian](cuisine)
+- [Malappuram](location) [South Indian](cuisine)
+- [Mathura](location) [South Indian](cuisine)
+- [Goa](location) [South Indian](cuisine)
+- [Mangalore](location) [South Indian](cuisine)
+- [Meerut](location) [South Indian](cuisine)
+- [Moradabad](location) [South Indian](cuisine)
+- [Mysore](location) [South Indian](cuisine)
+- [Nanded](location) [South Indian](cuisine)
+- [Nashik](location) [South Indian](cuisine)
+- [Nellore](location) [South Indian](cuisine)
+- [Noida](location) [South Indian](cuisine)
+- [Patna](location) [South Indian](cuisine)
+- [Pondicherry](location) [South Indian](cuisine)
+- [Purulla Prayagraj](location) [South Indian](cuisine)
+- [Raipur](location) [South Indian](cuisine)
+- [Rajkot](location) [South Indian](cuisine)
+- [Rajahmundry](location) [South Indian](cuisine)
+- [Ranchi](location) [South Indian](cuisine)
+- [Rourkela](location) [South Indian](cuisine)
+- [Salem](location) [South Indian](cuisine)
+- [Sangli](location) [South Indian](cuisine)
+- [Shimla](location) [South Indian](cuisine)
+- [Siliguri](location) [South Indian](cuisine)
+- [Solapur](location) [South Indian](cuisine)
+- [Srinagar](location) [South Indian](cuisine)
+- [Thiruvananthapuram](location) [South Indian](cuisine)
+- [Thrissur](location) [South Indian](cuisine)
+- [Tiruchirappalli](location) [South Indian](cuisine)
+- [Tiruppur](location) [South Indian](cuisine)
+- [Ujjain](location) [South Indian](cuisine)
+- [Bijapur](location) [South Indian](cuisine)
+- [Vadodara](location) [South Indian](cuisine)
+- [Varanasi](location) [South Indian](cuisine)
+- [Vasai-Virar City](location) [South Indian](cuisine)
+- [Vijayawada](location) [South Indian](cuisine)
+- [Vellore](location) [South Indian](cuisine)
+- [Warangal](location) [South Indian](cuisine)
+- [Surat](location) [South Indian](cuisine)
+- [Visakhapatnam](location) [South Indian](cuisine)
+- [Bengaluru](location) [North Indian](cuisine)
+- [Chennai](location) [North Indian](cuisine)
+- [Delhi NCR](location) [North Indian](cuisine)
+- [Hyderabad](location) [North Indian](cuisine)
+- [Kolkata](location) [North Indian](cuisine)
+- [Mumbai](location) [North Indian](cuisine)
+- [Ahmedabad](location) [North Indian](cuisine)
+- [Pune](location) [North Indian](cuisine)
+- [Agra](location) [North Indian](cuisine)
+- [Ajmer](location) [North Indian](cuisine)
+- [Aligarh](location) [North Indian](cuisine)
+- [Allahabad](location) [North Indian](cuisine)
+- [Amravati](location) [North Indian](cuisine)
+- [Amritsar](location) [North Indian](cuisine)
+- [Asansol](location) [North Indian](cuisine)
+- [Aurangabad](location) [North Indian](cuisine)
+- [Bareilly](location) [North Indian](cuisine)
+- [Belgaum](location) [North Indian](cuisine)
+- [Bhavnagar](location) [North Indian](cuisine)
+- [Bhiwandi](location) [North Indian](cuisine)
+- [Bhopal](location) [North Indian](cuisine)
+- [Bhubaneswar](location) [North Indian](cuisine)
+- [Bikaner](location) [North Indian](cuisine)
+- [Bilaspur](location) [North Indian](cuisine)
+- [Bokaro Steel City](location) [North Indian](cuisine)
+- [Chandigarh](location) [North Indian](cuisine)
+- [Coimbatore](location) [North Indian](cuisine)
+- [Nagpur](location) [North Indian](cuisine)
+- [Cuttack](location) [North Indian](cuisine)
+- [Dehradun](location) [North Indian](cuisine)
+- [Dhanbad](location) [North Indian](cuisine)
+- [Bhilai](location) [North Indian](cuisine)
+- [Durgapur](location) [North Indian](cuisine)
+- [Erode](location) [North Indian](cuisine)
+- [Faridabad](location) [North Indian](cuisine)
+- [Firozabad](location) [North Indian](cuisine)
+- [Ghaziabad](location) [North Indian](cuisine)
+- [Gorakhpur](location) [North Indian](cuisine)
+- [Gulbarga](location) [North Indian](cuisine)
+- [Guntur](location) [North Indian](cuisine)
+- [Gwalior](location) [North Indian](cuisine)
+- [Gurgaon](location) [North Indian](cuisine)
+- [Guwahati](location) [North Indian](cuisine)
+- [Hamirpur](location) [North Indian](cuisine)
+- [Hubli-Dharwad](location) [North Indian](cuisine)
+- [Indore](location) [North Indian](cuisine)
+- [Jabalpur](location) [North Indian](cuisine)
+- [Jaipur](location) [North Indian](cuisine)
+- [Jalandhar](location) [North Indian](cuisine)
+- [Jammu](location) [North Indian](cuisine)
+- [Jamnagar](location) [North Indian](cuisine)
+- [Jamshedpur](location) [North Indian](cuisine)
+- [Jhansi](location) [North Indian](cuisine)
+- [Jodhpur](location) [North Indian](cuisine)
+- [Kakinada](location) [North Indian](cuisine)
+- [Kannur](location) [North Indian](cuisine)
+- [Kanpur](location) [North Indian](cuisine)
+- [Kochi](location) [North Indian](cuisine)
+- [Kolhapur](location) [North Indian](cuisine)
+- [Kollam](location) [North Indian](cuisine)
+- [Kozhikode](location) [North Indian](cuisine)
+- [Kurnool](location) [North Indian](cuisine)
+- [Lucknow](location) [North Indian](cuisine)
+- [Ludhiana](location) [North Indian](cuisine)
+- [Madurai](location) [North Indian](cuisine)
+- [Malappuram](location) [North Indian](cuisine)
+- [Mathura](location) [North Indian](cuisine)
+- [Goa](location) [North Indian](cuisine)
+- [Mangalore](location) [North Indian](cuisine)
+- [Meerut](location) [North Indian](cuisine)
+- [Moradabad](location) [North Indian](cuisine)
+- [Mysore](location) [North Indian](cuisine)
+- [Nanded](location) [North Indian](cuisine)
+- [Nashik](location) [North Indian](cuisine)
+- [Nellore](location) [North Indian](cuisine)
+- [Noida](location) [North Indian](cuisine)
+- [Patna](location) [North Indian](cuisine)
+- [Pondicherry](location) [North Indian](cuisine)
+- [Purulla Prayagraj](location) [North Indian](cuisine)
+- [Raipur](location) [North Indian](cuisine)
+- [Rajkot](location) [North Indian](cuisine)
+- [Rajahmundry](location) [North Indian](cuisine)
+- [Ranchi](location) [North Indian](cuisine)
+- [Rourkela](location) [North Indian](cuisine)
+- [Salem](location) [North Indian](cuisine)
+- [Sangli](location) [North Indian](cuisine)
+- [Shimla](location) [North Indian](cuisine)
+- [Siliguri](location) [North Indian](cuisine)
+- [Solapur](location) [North Indian](cuisine)
+- [Srinagar](location) [North Indian](cuisine)
+- [Thiruvananthapuram](location) [North Indian](cuisine)
+- [Thrissur](location) [North Indian](cuisine)
+- [Tiruchirappalli](location) [North Indian](cuisine)
+- [Tiruppur](location) [North Indian](cuisine)
+- [Ujjain](location) [North Indian](cuisine)
+- [Bijapur](location) [North Indian](cuisine)
+- [Vadodara](location) [North Indian](cuisine)
+- [Varanasi](location) [North Indian](cuisine)
+- [Vasai-Virar City](location) [North Indian](cuisine)
+- [Vijayawada](location) [North Indian](cuisine)
+- [Vellore](location) [North Indian](cuisine)
+- [Warangal](location) [North Indian](cuisine)
+- [Surat](location) [North Indian](cuisine)
+- [Visakhapatnam](location) [North Indian](cuisine)
+- Help me finding a [italian](cuisine) restaurant in [Hyderabad](location)
+- Looking for an [mexican](cuisine) restaurant in [Ahmedabad](location)
+- Place to eat [north indian](cuisine) food in [Aligarh](location)
+- I'm gonna need help finding a [indian](cuisine) restaurant in [Mysore](location)
+- i'm looking for a [Chinese](cuisine) restaurant in [Lucknow](location)
+- Hey, can you help me with locating a [mexican](cuisine) restaurant in [Lakhanpur](location)
+- i want a [french](cuisine) restaurant in [Vizag](location)
+- What's a good place to eat [mexican](cuisine) food in [Bangalore](location)
+- Find a [south indian](cuisine) restaurant in [Amravati](location)
+- Fine me some place for [mexican](cuisine) food in [Asansol](location)
+- Looking for [north indian](cuisine) restaurant in [Aurangabad](location)
+- Would you please find a [italian](cuisine) restaurant in [Bareilly](location)
+- Find [chinese](cuisine) restaurant in [Bhavnagar](location)
+- Search for [south indian](cuisine) restaurant in [Bhiwandi](location)
+- Looking for a place to eat [american](cuisine) food in [Bikaner](location)
+- Find a restaurant for me where I can eat [north indian](cuisine) in [Jaipur](location)
+- Find a restaurant for me to eat [mexican](cuisine) at [Faridabad](location)
+- I am hungry, find me some place to go eat [italian](cuisine) in [Goa](location)
+- I'm hungry. Looking out for some good [chinese](cuisine) restaurants in [chandigarh](location)
+- Would you find a [south indian](cuisine) restaurant for me in [Kozhikode](location)?
+- Would you find me a [american](cuisine) restaurant in [Trivandrum](location)?
+- A place to eat [chinase](cuisine) in [Mysuru](location)
+- Help me a find a place to eat [mexican](cuisine) food in [Bilaspur](location)
+- Look for a [south indian](cuisine) restaurant in [Bokaro Steel City](location)
+- Find a place to eat [american](cuisine) food in [Coimbatore](location)
+- Help me search a [italian](cuisine) restaurant in [Nagpur](location)
+- I am hungry, please find me a [chinese](cuisine) restaurant at [Cuttack](location)
+- Hey, can you help me with locating a [north indian](cuisine) restaurant in [calcuta](location)
+- I want to eat [italian](cuisine) food in [cochin](location)
+- Please find me a [south-indian](cuisine) restaurant in [madras](location)
+- Quickly get me a [northindian](cuisine) place in [New Delhi](location)
+- Where can i get [south-indina](cuisine) food in [Mangaluru](location)
+- i'm looking for a [Chinese](cuisine) restaurant in [cyberabad](location)
+- [chinese](cuisine) eating place in [mumbai](location)
+- I want to eat [italian](cuisine) food in [Prayagraj](location)
+- Okay. I want to eat [south indian](cuisine) in [allahabad](location)
+- Okay. Show me some [north indian](cuisine) restaurants in [prayagraj](location)
+- What's a good place to eat [mexican](cuisine) food in [chandighar](location)
+- Good place to eat [american](cuisine) at [Dehradun](location)
+- [italian](cuisine) restaurant at [Dhanbad](location)
+- Nice [north indian] restaurant at [Bhilai](location)
+- Place to eat [mexican](cuisine) food in [Durgapur](location)
+- [french](cuisine) restaurant in [Firozabad](location)
+- [thai](cuisine) restaurant in [Ghaziabad](location)
+- Look for [mughlai](cuisine) restaurant in [Gorakhpur](location)
+- Find [indian](cuisine) restaurant in [Gulbarga](location)
+- Search for [italian](cuisine) restaurant at [Guntur](location)
+- Suggest some [north indian](cuisine) restaurant at [Gwalior](location)
+- Would you please find a [south indian](cuisine) restaurant in [Guwahati](location)
+- Help me find [mexican](cuisine) restaurant in [Hamirpur](location)
+- Help me search a place to eat [american](cuisine) in [Hubli-Dharwad](location)
+<!-- only 'cuisine' entity : training samples -->
+- [chinese](cuisine)
+- [Chinese](cuisine)
+- [Chinase](cuisine)
+- [Chines](cuisine)
+- [chines](cuisine)
+- [mexican](cuisine)
+- [Mexican](cuisine)
+- [Mexi](cuisine)
+- [mexi](cuisine)
+- [italian](cuisine)
+- [Italian](cuisine)
+- [Ital](cuisine)
+- [ital](cuisine)
+- [american](cuisine)
+- [American](cuisine)
+- [Americ](cuisine)
+- [americ](cuisine)
+- [south indian](cuisine)
+- [south-indian](cuisine)
+- [southindian](cuisine)
+- [south-indina](cuisine)
+- [South Indian](cuisine)
+- [SouthIndian](cuisine)
+- [South](cuisine)
+- [south](cuisine)
+- [north indian](cuisine)
+- [north-indian](cuisine)
+- [northindian](cuisine)
+- [north-indina](cuisine)
+- [North Indian](cuisine)
+- [NorthIndian](cuisine)
+- [North](cuisine)
+- [north](cuisine)
+- Need a place to eat [italian](cuisine)
+- Find a place to have [south indian](cuisine)
+- Looking for a place where i can eat [north indian](cuisine)
+- Get me some place to eat [mexican](cuisine)
+- Search for [thai](cuisine) restaurant
+- I'm gonna need help finding a [indian](cuisine) restaurant
+- i'm looking for a [Chinese](cuisine) restaurant
+- Hey, can you help me with locating a [mexican](cuisine) restaurant
+- i want a [french](cuisine) restaurant
+- I'll prefer [thai](cuisine)
+- I will prefer [thai](cuisine)
+- I'll prefer [chinese](cuisine)
+- I will prefer [chinese](cuisine)
+- I'll prefer [american](cuisine)
+- I'll prefer [mexican](cuisine)
+- I'll prefer [italian](cuisine)
+- I'll prefer [south indian](cuisine)
+- I'll prefer [north indian](cuisine)
+- [thai](cuisine)
+- [french](cuisine)
+- What's a good place to eat [mexican](cuisine) food
+- Good place to have [american](cuisine)
+- Search for a good place to eat [italian](cuisine) for me
+- Search for [french](cuisine) restaurant for me
+- Looking for [mughlai](cuisine) restaurant
+- Find a restaurant for me where I can eat [north indian](cuisine)
+- Find a restaurant for me to eat [mexican](cuisine)
+- I am hungry, find me some place to go eat [italian](cuisine)
+- Would you find a [south indian](cuisine) restaurant for me?
+- Would you find a [american](cuisine) restaurant
+- A place to eat [chinase](cuisine)
+- I want to eat [italian](cuisine) food
+- Please find me a [south-indian](cuisine) restaurant
+- Quickly get me a [northindian](cuisine) place
+- Where can i get [south-indina](cuisine) food?
+- I need to find a restaurant [southindian](cuisine)
+- A place to have [italian](cuisine) food
+- Suggest me a good [mexican](cuisine) restaurant
+- how can you help me find a [french](cuisine) restaurant?
+- Find me a place to eat [thai](cuisine) food
+- Look for a [japanese](cuisine) restaurant for me please
+- Find a good place to eat [mughlai](cuisine)
+- Suggest a [indian](cuisine) restaurant
+<!-- no entity : training samples -->
+- Looking for a restaurant
+- Looking for a good restaurant
+- Search restaurant for me
+- Find restaurant
+- I need to find a restaurant
+- Can you find me a good restaurant?
+- Would you be able to search a place to eat?
+- A place to have food
+- Feeling hungry, can you help
+- I am hungry, find a restaurant
+- Get me some place to eat food quickly
+- Pick some place for me to eat quickly
+- Where can i get some food to eat
+- i'm looking for a restaurant
+- can you help me find a restaurant
+- pick a restaurant for me
+- please find a restaurant for me
+- I'm hungry. Looking out for some good restaurants
+- I want to eat
+- I am feeling hungry
+- I need a new restaurant
+- Suggest me a good restaurant
+- where should i eat?
+- I'm gonna need help finding a restaurant
+- Show me an open restaurant
+- Find a restaurant for me to eat
+- Please find me a good place to eat
+- Find me a restaurant
+- Look for a restaurant for me
+- Search a good place to eat for me
+- restaurant please
+- restaurant
+- place to eat
+
+## lookup:location
+- data/static/cities_list.json
+
+## lookup:cuisine
+- american
+- chinese
+- italian
+- mexican
+- north indian
+- south indian
+
+## synonym:low_budget
+- less than 300
+- cheap
+- Lesser than Rs. 300
+- <300
+- < 300
+- not more than 300
+- lesser than 300
+
+## synonym:mid_budget
+- 300 and 700
+- Rs. 300 to 700
+- between 300 and 700
+- 300-700
+- 300 - 700
+- not more than 700
+- 300 to 700
+
+## synonym:high_budget
+- expensive
+- costlier than 700
+- More than 700
+- more than 700
+- >700
+- > 700
+
+## synonym:chinese
+- Chinese
+- Chinase
+- Chines
+- chines
+- chineses
+
+## synonym:mexican
+- Mexican
+- Mexi
+- mexi
+
+## synonym:italian
+- Italian
+- Ital
+- ital
+
+## synonym:american
+- American
+- Americ
+- americ
+
+## synonym:south indian
+- south-indian
+- southindian
+- south-indina
+- South Indian
+- SouthIndian
+- South
+- south
+
+## synonym:north indian
+- north-indian
+- northindian
+- north-indina
+- North Indian
+- NorthIndian
+- North
+- north
+
+## synonym:vegetarian
+- Vegetarian
+- Veggie
+- Vegg
+- veggie
+- vegg
+
+## synonym:Allahabad
+- prayagraj
+- Prayagraj
+- Allahabad
+- allahabad
+
+## synonym:Amritsar
+- amritsar
+- Amratsar
+- amratsar
+- City of Golden Temple
+
+## synonym:Aurangabad
+- Aurgangabad
+- Sambhaji Nagar
+- aurangabad
+
+## synonym:Bengaluru
+- Bangalore
+- bngalore
+- bengalluru
+- Bangalor
+- bangalore
+- bengaluru
+- bglr
+- Bglr
+- Blr
+- blr
+- Blore
+- blore
+- Garden City
+
+## synonym:Belgaum
+- Belagavi
+- belgaum
+
+## synonym:Bhubaneswar
+- Temple City
+- Bhuvaneswar
+- bhuvaneswar
+- bhubaneswar
+
+## synonym:Bhilai
+- durg
+- bhilai
+- Durg
+- Durg Bhilai Nagar
+- durg bhilai nagar
+- durg bhilai
+- Durg Bhilai
+
+## synonym:Chennai
+- chennai
+- madras
+- Madras
+- chn
+- Chn
+- MAS
+- mas
+
+## synonym:Chandigarh
+- chandigarh
+- Chandighar
+- chandighar
+
+## synonym:Delhi NCR
+- New Delhi
+- Delhi NCR
+- NewDelhi
+- Dilli
+- Dellhi
+- newdelhi
+- Newdelhi
+- new delhi
+- new Delhi
+- Capital City Of India
+- National Capital
+- NCR
+- ncr
+- del
+- Del
+- delhi
+- dilli
+- Delhi
+
+## synonym:Erode
+- erode
+
+## synonym:Goa
+- Panjim
+- Panaji
+- panjim
+- panaji
+
+## synonym:Guwahati
+- guwahati
+- gauhati
+- Gauhati
+
+## synonym:Hyderabad
+- hyderabad
+- Secunderabad
+- secunderabad
+- cyberabad
+- Cyberabad
+- Bangle City
+- Twin Cities
+- Secundarabad
+- Sikandarabad
+- secundarabad
+- sikandarabad
+
+## synonym:Hubli-Dharwad
+- hubli-dharwad
+- Hubli Dharwad
+- hubli dharwad
+- Hubballi-Dharwad
+- Hubballi Dharwad
+- hubballi dharwad
+- hubballi-dharwad
+- Hubballi
+- Dharwad
+- Hubli
+- hubli
+- dharwad
+
+## synonym:Indore
+- indore
+- Indhur
+- indhur
+
+## synonym:Jabalpur
+- jabalpur
+- Jubbulpore
+- jubbulpore
+
+## synonym:Jalandhar
+- jalandhar
+- Jullundur
+- jullundur
+
+## synonym:Jodhpur
+- jodhpur
+- Sun City
+
+## synonym:Jaipur
+- jaipur
+- Pink City
+
+## synonym:Jamshedpur
+- jamshedpur
+- Jamsedpur
+- jamsedpur
+
+## synonym:Kanpur
+- kanpur
+- Cawnpore
+- cawnpore
+
+## synonym:Kolkata
+- Calcutta
+- kolkata
+- kolkatta
+- calcutta
+- calcuta
+- City of Palaces
+
+## synonym:Kochi
+- kochi
+- cochin
+- Cochin
+
+## synonym:Kozhikode
+- Calicut
+- kozhikode
+- calicut
+
+## synonym:Kollam
+- Quilon
+- quilon
+- kollam
+
+## synonym:Lucknow
+- Lakhanpur
+- Lucknw
+- lucknow
+- lucknw
+
+## synonym:Mumbai
+- City of seven Islands
+- Bombay
+- bombay
+- mumbai
+- BOM
+- bom
+
+## synonym:Mysore
+- mysuru
+- Mysuru
+- Sandal Wood City
+- mysore
+
+## synonym:Mangalore
+- mangalore
+- mangaluru
+- Mangaluru
+
+## synonym:Nashik
+- nashik
+- Nasik
+- nasik
+
+## synonym:Nagpur
+- Orange City
+- nagpur
+
+## synonym:Pondicherry
+- pondicherry
+- puducherry
+- Puducherry
+- Auroville
+- auroville
+- Pondichery
+- pondichery
+- City of Dawn
+
+## synonym:Pune
+- Poona
+- poona
+- pune
+
+## synonym:Rajahmundry
+- rajahmundry
+- Rajahmundri
+- rajahmundri
+- Rajamundry
+- rajamundry
+- Rajamundri
+- rajamundri
+
+## synonym:Rourkela
+- rourkela
+- Raurkela
+- raurkela
+
+## synonym:Surat
+- surat
+- Diamond City
+
+## synonym:Visakhapatnam
+- visakhapatnam
+- Vizag
+- vizag
+- Vizagapatnam
+- vizagapatnam
+- waltair
+- Waltair
+
+## synonym:Vadodara
+- vadodara
+- Vadodra
+- vadodra
+
+## synonym:Vasai Virar City
+- vasai
+- virar
+- Virar
+- vasai virar
+- Vasai Virar
+- vasai virar city
+- Vasai
+- Vasai-Virar City
+
+## synonym:Thiruvananthapuram
+- thiruvananthapuram
+- trivandrum
+- Trivandrum
+- Travancore
+- travancore
+- tvm
+- Tvm
+
+## synonym:Thrissur
+- thrissur
+- Trichur
+- trichur
+- Thiru Siva Peroor
+
+## regex:email
+- (^[\w.-]+@[\w-]+\.[\w.-]+$)
+
+## regex:pincode
+- [0-9]{6}
+
+## regex:price
+- [0-9]{3}
+
+## regex:greet
+- hey[^\\s]*
+
+<!-- markdownlint-restore -->

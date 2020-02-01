@@ -1,0 +1,146 @@
+actions:
+- action_cuisine_valid
+- action_location_valid
+- action_restart
+- action_search_restaurant
+- action_send_email
+- action_slot_reset
+- utter_ask_budget
+- utter_ask_cuisine
+- utter_ask_cuisine_retry
+- utter_ask_details
+- utter_ask_email
+- utter_ask_location
+- utter_ask_location_retry
+- utter_bye
+- utter_confirm_email
+- utter_cuisine_invalid
+- utter_sorry
+- utter_did_that_help
+- utter_greet
+- utter_happy
+- utter_location_invalid
+- utter_out_of_scope
+- utter_search_invalid
+entities:
+- budget
+- cuisine
+- email
+- location
+intents:
+- greet
+- search_restaurant
+- ask_budget
+- bye
+- deny
+- affirm
+- ask_email
+- out_of_scope
+- thank
+slots:
+  budget:
+    type: text
+  cuisine:
+    type: text
+  cuisine_validity:
+    type: categorical
+    values:
+    - valid
+    - invalid
+  email:
+    type: text
+  email_message:
+    type: text
+  location:
+    type: text
+  location_validity:
+    type: categorical
+    values:
+    - valid
+    - invalid
+  search_validity:
+    type: categorical
+    values:
+    - valid
+    - invalid
+templates:
+  utter_ask_budget:
+  - buttons:
+    - payload: Lesser than Rs. 300
+      title: Lesser than Rs. 300
+    - payload: Rs. 300 to 700
+      title: Rs. 300 to 700
+    - payload: More than Rs. 700
+      title: More than Rs. 700
+    text: What's the average budget for two people?
+  utter_ask_cuisine:
+  - buttons:
+    - payload: Chinese
+      title: Chinese
+    - payload: Mexican
+      title: Mexican
+    - payload: Italian
+      title: Italian
+    - payload: American
+      title: American
+    - payload: South Indian
+      title: South Indian
+    - payload: North Indian
+      title: North Indian
+    text: What kind of cuisine would you like to have?
+  utter_ask_cuisine_retry:
+  - text: Would you like to search for some other cuisine?
+  - text: Can I help you look for some other cuisine today?
+  - text: Would you like to try some other cuisine?
+  - text: Would you want to search for some other cuisine?
+  utter_ask_details:
+  - text: Would you like me to send an email with details of restaurants?
+  - text: Should I send you details of all the restaurants on email?
+  utter_ask_email:
+  - text: Please provide your email id.
+  - text: To what email id should I send it to?
+  utter_ask_location:
+  - text: Which city would you like to get the details of?
+  - text: In what location?
+  - text: Which city are you looking for?
+  - text: Can you tell me the location you are looking for?
+  utter_ask_location_retry:
+  - text: Would you like to search for some other location?
+  - text: Can I help you look for a restaurant at some other location?
+  - text: Can I help you find restaurant in some other location?
+  - text: Can you please specify some other location?
+  - text: Can you please tell again?
+  utter_bye:
+  - text: See you again!
+  - text: Good bye!
+  - text: Goodbye!
+  - text: Bye-bye!
+  - text: Bye!
+  - text: Okay bye!
+  - text: Okay. Bon Appetit!
+  utter_confirm_email:
+  - text: An email has been sent to you.
+  - text: Sent.
+  - text: Sent. Bon Appetit!
+  utter_cuisine_invalid:
+  - text: Sorry, we do not serve the requested cuisine.
+  - text: Sorry, we do not serve this cuisine.
+  utter_sorry:
+  - text: Sorry, hope to serve you better next time.
+  utter_did_that_help:
+  - text: Did that help you?
+  utter_greet:
+  - text: Hey there! How can i help you today?
+  - text: Howdy! Is there anything i can help you with?
+  - text: Hi there! How may I help you?
+  utter_happy:
+  - text: Great carry on!
+  utter_location_invalid:
+  - text: Sorry, we do not serve at the requested location.
+  - text: Sorry, We do not operate in that area yet.
+  - text: Sorry, we don't operate in this city.
+  - text: Sorry, didn't find any such location.
+  utter_out_of_scope:
+  - text: Sorry, I do not understand this. Please be specific.
+  utter_search_invalid:
+  - text: Sorry, we do not have any restaurants which match your requirements. Hope to serve you better next time!
