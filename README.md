@@ -1,4 +1,4 @@
-# RestaurantBot_Rasa
+# ConversationalBot_RestaurantBot_Rasa_NLP
 
 #### Problem Statement
 
